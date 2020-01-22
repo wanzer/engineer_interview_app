@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="txt_employee_first_name">Fist Name:</string>
+    <string name="txt_employee_second_name">Second name:</string>
+    <string name="txt_employee_first_name_et">Employee first name</string>
+    <string name="txt_employee_second_name_et">Employee second name</string>
+    <string name="txt_send_data">Send information</string>
+    <string name="txt_photo_preview_iv">Photo preview image</string>
+    <string name="txt_attach_image_file">Attach image file</string>
+    <string name="txt_thanks_for_permisson">Thanks for granting Permission</string>
+    <string name="txt_photo_storage">Photo storage</string>
+    <string name="txt_choose_sourse">Choose source</string>
+    <string name="txt_fill_in_information">Please fill in employee information</string>
+</resources>
